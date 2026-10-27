@@ -1,0 +1,7 @@
+pandas
+pyarrow>=21
+numpy
+scipy
+scikit-learn
+xgboost
+statsmodels
